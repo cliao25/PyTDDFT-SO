@@ -7,4 +7,4 @@ Get started by cloning this repository to a local repository.
 ```
 git clone https://github.com/xsligroup/PyTDDFT-SO.git
 ```
-Refer to guide.pdf for details on how to use PyTDDFT-SO
+Refer to TDDFT_SO_Guide.pdf for details on how to use PyTDDFT-SO
